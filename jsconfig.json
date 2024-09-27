@@ -1,0 +1,6 @@
+//vs code treat this this project lik js's one
+{
+    "exclude": [
+        "node_modules"
+    ]
+}
